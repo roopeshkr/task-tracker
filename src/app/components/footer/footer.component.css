@@ -1,0 +1,10 @@
+footer{
+    text-align: center;
+
+}
+
+span{
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
